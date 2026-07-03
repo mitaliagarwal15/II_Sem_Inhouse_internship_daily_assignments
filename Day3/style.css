@@ -1,6 +1,6 @@
 :root{
-  --primary-color: #ff6b35;   /* orange - tum koi bhi color choose kar sakte ho */
-  --secondary-color: #00d4ff; /* cyan accent */
+  --primary-color: #ff6b35;   
+  --secondary-color: #00d4ff; 
   --dark-bg: #0a0a12;
 }
 
@@ -29,9 +29,9 @@
 }
 
 .card{
-  background: rgba(255,255,255,0.06) !important;  /* 0.03 se badha kar 0.06 kiya */
+  background: rgba(255,255,255,0.06) !important;  
   backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);  /* Safari ke liye zaroori */
+  -webkit-backdrop-filter: blur(12px);  
   border: 1px solid rgba(255,255,255,0.12) !important;
 }
 .features-section .card{
